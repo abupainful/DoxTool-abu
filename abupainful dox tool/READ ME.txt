@@ -1,0 +1,9 @@
+--Made by abupainful
+
+
+
+For the doxtool u will need to make a server with a webhook and put your webhook in and then put the enimie/discord user your gonna to beam
+Underneeth it.
+
+
+Then tell them to add u or vc u and then when they do that itll pop up in your webhook with their ip and much more.
